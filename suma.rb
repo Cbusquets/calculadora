@@ -1,2 +1,0 @@
-class Suma
-end

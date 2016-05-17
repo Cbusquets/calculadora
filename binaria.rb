@@ -1,2 +1,0 @@
-class Binaria
-end
